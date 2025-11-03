@@ -1,5 +1,0 @@
-[build]
-builder = "nixpacks"
-
-[build.nixpacksPlan]
-phases.install.cmds = ["cp requirements.txt.railway requirements.txt", "pip install -r requirements.txt"]
