@@ -91,7 +91,7 @@ export default function Page() {
             ROMA Contract Explainer
           </motion.h1>
           <p className="text-slate-600 text-sm md:text-base max-w-2xl mx-auto">
-            Paste any EVM contract address. Get AI-powered, human-friendly explanations.
+            Paste any EVM contract address. Get instant, easy-to-understand explanations.
           </p>
           <StatusIndicator status={romaStatus} />
         </header>
